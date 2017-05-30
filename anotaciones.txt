@@ -1,0 +1,6 @@
+3 tipos de ususarios:
+	usuario base
+	usuario/vendedor
+		el sistema enviara un una peticion al administrador
+	administrador
+ghfghfghfh
