@@ -1,8 +1,0 @@
-La aplicación a desarrollar tiene como objetivo incentivar la agricultura hogareño.
-Es primordial para el sistema contar con usuarios y perfiles para el control dentro de acceso dentro de los modulos.
- Estos usuarioa tendran que contar con un nombre usuario y una contraseña para ingresar al sistema.
-Una vez dentro del sistema el usuario podra elegir su perfil, "usuario base" y "usuario/vendedor", en el segundo caso 
-el sistema enviara una peticion de autorización al administrador.
-La Peticion aparecera como una notificacion al usuario administrador, una vez que el a acepte el usuario podra contar con su acceso.
-Dentro del sistema cada usuario podra contactar a otro por medio de foros.
-Los for
