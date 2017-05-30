@@ -1,6 +1,0 @@
-
-El sistema ofrecera por defecto una serie de plantaciones, con datos de como gestionarlas.
-El usuario base, solo podra ver la información de como realizar las plantaciones y hacer uso de los foros.
-El usuario y vendedor, ademas de las funciones del usuario base podra gestionar publicaciones dentro de la plataforma.
-El sistema proveera al usuario notificaciones, acerca de sus respuestas en los foros, publicidades, etc.
-Las notificaciones seran por medio del sistema y por mail.
